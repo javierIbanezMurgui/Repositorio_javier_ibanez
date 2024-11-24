@@ -18,6 +18,6 @@ A continuación, se mostrará una tabla con **tres columnas** y cuatro filas:
 
 
 ## Cómo insertar un enlace con markdown
-[enlace]: https://javieribanezmurgui.github.io/Repositorio_javier_ibanez/
+[enlace]: https://github.com/javierIbanezMurgui/Repositorio_javier_ibanez/blob/main/README.md
 
 [ir a la página principal][enlace]
